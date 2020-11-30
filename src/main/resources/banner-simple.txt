@@ -1,0 +1,3 @@
+Artifact Name : ${AnsiBackground.BLUE}${AnsiColor.BRIGHT_WHITE} ${AnsiStyle.BOLD}${application.title}${AnsiStyle.NORMAL} ${AnsiColor.DEFAULT}${AnsiBackground.DEFAULT}
+Artifact Version: Artifact Version: ${AnsiBackground.BLUE}${AnsiColor.BRIGHT_WHITE}${AnsiStyle.BOLD}${application.formatted-version}${AnsiStyle.NORMAL} ${AnsiColor.DEFAULT}${AnsiBackground.DEFAULT}
+Spring Boot Version: ${AnsiBackground.BLUE}${AnsiColor.BRIGHT_WHITE}${AnsiStyle.BOLD}${spring-boot.formatted-version}${AnsiStyle.NORMAL} ${AnsiColor.DEFAULT}${AnsiBackground.DEFAULT}
